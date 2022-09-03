@@ -1,0 +1,25 @@
+#dabba {
+  background-image: url(fossila.jpg);
+  /* percent me scrollig khtm krnay ke liye */
+  width: 100%;
+  height: 60vh;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+@media only screen and (max-width: 720px) {
+  #dabba {
+    display: none;
+  }
+}
+.backwalabtn {
+  position: sticky;
+  top: 0px;
+  /* right: 50px; */
+  /* margin: 0; */
+  /* background-color: aliceblue; */
+  z-index: 1;
+  cursor: pointer;
+  margin-top: 20px;
+  /* margin-bottom: 70px; */
+}

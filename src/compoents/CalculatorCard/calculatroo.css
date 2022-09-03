@@ -1,0 +1,40 @@
+.CardParent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* img {
+  width: 100%;
+  max-width: 300px;
+  max-height: 268px;
+} */
+.activator {
+  width: 100%;
+  max-width: 300px;
+  max-height: 268px;
+}
+.iconSettingg {
+  position: relative;
+  top: -7px;
+  padding: 10px;
+}
+.card {
+  width: 300px;
+  height: 400px;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+.TextSetting {
+  position: absolute;
+  bottom: -15px;
+}
+
+.Card2Setting {
+  margin: 53px auto;
+}
+
+#grease__first_img {
+  height: 22vh;
+}

@@ -1,0 +1,39 @@
+.parentmainmessageka {
+  display: flex;
+  justify-content: center;
+}
+.rowkodarmyanmaykro {
+  text-align: center;
+}
+
+.mainmessage {
+  text-align: center;
+  width: 20%;
+}
+
+.mainmessagekatextarea {
+  height: 10rem;
+  margin-top: 50px;
+}
+.widthkum {
+  width: 30%;
+}
+.textareatable {
+  width: 60%;
+}
+
+/* select wala*/
+.selectwala {
+  width: 20%;
+  margin: auto;
+  position: relative;
+  top: 20px;
+}
+.rowkodarmyanmaykro {
+  text-align: center;
+}
+
+.contentvalvescard {
+  display: flex;
+  justify-content: center;
+}

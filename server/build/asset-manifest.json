@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9128dba3.css",
+    "main.js": "/static/js/main.a4d2eb31.js",
+    "static/js/787.3b24ec70.chunk.js": "/static/js/787.3b24ec70.chunk.js",
+    "static/media/bg.jpg": "/static/media/bg.b918a42829342b121308.jpg",
+    "static/media/fossil.jpg": "/static/media/fossil.c3949f2655db783f6a5e.jpg",
+    "static/media/fossila.jpg": "/static/media/fossila.af6c3ab27c3bb75bce37.jpg",
+    "index.html": "/index.html",
+    "main.9128dba3.css.map": "/static/css/main.9128dba3.css.map",
+    "main.a4d2eb31.js.map": "/static/js/main.a4d2eb31.js.map",
+    "787.3b24ec70.chunk.js.map": "/static/js/787.3b24ec70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9128dba3.css",
+    "static/js/main.a4d2eb31.js"
+  ]
+}

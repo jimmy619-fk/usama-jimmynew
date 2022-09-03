@@ -1,0 +1,16 @@
+.brand-logo {
+  position: relative;
+  left: 22px;
+}
+
+.logofossil {
+  margin-top: -7px;
+}
+#navha {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.outwalaicon {
+  margin-top: 7px;
+}

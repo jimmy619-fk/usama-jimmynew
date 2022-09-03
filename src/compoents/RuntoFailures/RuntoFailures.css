@@ -1,0 +1,13 @@
+.Parent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.CardRun {
+  margin-left: 50px;
+  border-radius: 5px;
+}
+.TopSetting {
+  margin-top: 50px;
+}

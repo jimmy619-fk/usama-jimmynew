@@ -1,0 +1,34 @@
+#preventwali {
+  height: 328px;
+}
+#runtowali {
+  height: 329px;
+}
+
+#predictive_card_content {
+  height: 138px;
+  text-align: center;
+}
+.card-content {
+  text-align: center;
+}
+.card-action {
+  text-align: center;
+}
+#runtocolor {
+  color: #283593;
+}
+#predictivecolor {
+  color: #283593;
+}
+#preventivecolor {
+  color: #283593;
+}
+@media only screen and (max-width: 1200px) {
+  .row .col.s12 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+  }
+}
